@@ -1,0 +1,20 @@
+<ion-view view-title="Account">
+  <ion-content>
+    <ion-item ng-if="me">
+      Hello {{me.username}}
+    </ion-item>
+    <form ng-submit="register()" ng-if="!me">
+      <div class="list">
+        <label class="item item-input">
+          <input type="text" placeholder="Username" ng-model="user.name">
+        </label>
+        <label class="item item-input">
+          <input type="password" placeholder="Password" ng-model="user.password">
+        </label>
+      </div>
+      <div class="padding">
+        <button type="submit" class="button button-block button-positive">Register</button>
+      </div>
+    </form>
+  </ion-content>
+</ion-view>

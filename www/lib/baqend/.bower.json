@@ -1,0 +1,41 @@
+{
+  "name": "baqend",
+  "description": "Baqend JavaScript SDK",
+  "main": "dist/baqend.js",
+  "authors": [
+    "Baqend.com <info@baqend.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "backend",
+    "baqend",
+    "mongodb",
+    "sdk",
+    "backend-as-a-service"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "homepage": "http://www.baqend.com",
+  "ignore": [
+    "**/.*",
+    "*.iml",
+    "node_modules",
+    "spec",
+    "scripts/release.js",
+    "tpl"
+  ],
+  "version": "2.3.0",
+  "_release": "2.3.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.3.0",
+    "commit": "76395a6e2f7b10e2d03d990ca784f540bb3128f8"
+  },
+  "_source": "https://github.com/Baqend/js-sdk.git",
+  "_target": "^2.3.0",
+  "_originalSource": "baqend",
+  "_direct": true
+}
