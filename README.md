@@ -16,8 +16,8 @@ The easiest way to use this starter is to use the ionic cli:
  ionic serve
  ```
 
- The ionic app is already connected to an Baqend test instance. To connect it to your [own Baqend instance](https://dashboard.baqend.com/register) change the variable `appName` in the `service.js` to the name of your Baqend instance. If you will use your app on iOS please
- replace `app-starter` with your Baqend instance name at the bottom in the `config.xml`.
+ The ionic app is already connected to a Baqend test instance. To connect it to your [own Baqend instance](https://dashboard.baqend.com/register) change the variable `appName` in the `service.js` to the name of your Baqend instance. If you will use your app on iOS please
+ replace `app-starter` with your Baqend instance name at the bottom of the `config.xml`.
 
  The app uses a `Message` object, which is defined in [the Baqend schema](http://www.baqend.com/guide/#schema-and-types). It has three string attributes: `name`, `text`, `face`.  
  
