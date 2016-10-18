@@ -6,7 +6,7 @@ With this Ionic and Baqend starter kit you can build **blazingly fast hybrid app
 
 This starter is based on the [Ionic-Tabs-Starter](https://github.com/driftyco/ionic-starter-tabs).
 
-## HOWTO
+## HOW-TO
 
 The easiest way to use this starter is to use the ionic cli:
  
