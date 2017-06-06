@@ -1,6 +1,6 @@
 !["Logo"](https://cdn.rawgit.com/Baqend/ionic1-starter/master/ionic_baqend.svg)
 
-# Ionic and Baqend Starter
+# Ionic 1 and Baqend Starter
 
 With this Ionic and Baqend starter kit you can build **blazingly fast hybrid apps** in no time.
 
